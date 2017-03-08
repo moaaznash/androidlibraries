@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "850366235516",
+    "firebase_url": "https://tabkhatyapp.firebaseio.com",
+    "project_id": "tabkhatyapp",
+    "storage_bucket": "tabkhatyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850366235516:android:17c424e02785cddf",
+        "android_client_info": {
+          "package_name": "com.example.moaaznash.firebasemozeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850366235516-6gn8m2pkgnncte0grjm2enauva0aa3kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moaaznash.firebasemozeh",
+            "certificate_hash": "df468c91dbd4c9324283d62bec0ce8b9a9031f12"
+          }
+        },
+        {
+          "client_id": "850366235516-r8478nat1cbni4miifj9cru9jt9ratoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhLGPyzOmJ01xIL_hzUuUuEjnkvzHfdQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850366235516-r8478nat1cbni4miifj9cru9jt9ratoa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850366235516-nc29rj35ub12t6q22or1ljebv28725bc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TabkhatyApp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

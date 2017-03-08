@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacebookSignInMozeh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">587427961462838</string>
+</resources>
