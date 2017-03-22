@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UserRegistrationMozeh</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Mozeh String-->
+    <string name="shared_preference_mozeh">UserRegistration</string>
+    <string name="image_saving_directory_mozeh">/user_reg_mozeh1</string>
+    <string name="user_credintial_key_name_mozeh">USER_CREDINTIALS</string>
+    <string name="facebook_app_id">587427961462838</string>
+</resources>
